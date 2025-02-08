@@ -27,6 +27,7 @@ pip install -r requirements.txt
 echo.  > .gitignore  
   
 ## Add the below to this file:  
+'''
 \# Ignore virtual environment  
 venv/  
   
@@ -40,7 +41,8 @@ venv/
 \# Ignore IDE folders  
 .vscode/  
 .idea/  
-  
+'''  
+
 ## Create basic project structure:  
 echo. > scraper.ipynb  
 echo. > README.md  
