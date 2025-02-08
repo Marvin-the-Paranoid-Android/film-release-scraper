@@ -15,10 +15,10 @@ venv\Scripts\activate  # Only works for Windows, on macOS/Linux: source venv/bin
 echo. > requirements.txt
 
 ## Add the following to the requirements.txt file:
-requests
-beautifulsoup4
-pandas
-jupyter
+requests  
+beautifulsoup4  
+pandas  
+jupyter  
 
 ## Install the above python packages using:
 pip install -r requirements.txt
