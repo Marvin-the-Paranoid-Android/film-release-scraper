@@ -31,7 +31,7 @@ echo.  > .gitignore
 venv/  
   
 \# Ignore Python bytecode  
-__pycache__/  
+\__pycache__/  
 *.pyc  
   
 \# Ignore Jupyter Notebook checkpoints  
