@@ -1,8 +1,6 @@
 # Film Release Scraper
 
-## In VS Code:
-Create project folder and navigate into it:
-```bash
+## In VS Code, create project folder and navigate into it:
 mkdir film_release_scraper
 cd film_release_scraper
 
